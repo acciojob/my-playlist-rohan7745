@@ -32,10 +32,10 @@ video.player_one{
 	margin-left:100px;
 	height:300px
 }
-.player_two{
+audio.player_two{
 width:100%;
 	margin-left:10px;
 	border-radius:22px;
-	background-color:transparent;
+	background-color:rgb(255, 255, 255);
 	contro
 }
