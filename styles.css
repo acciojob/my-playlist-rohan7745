@@ -25,7 +25,8 @@ ve{
 	height:100%;
 	
 }
-.player_one{
+video.player_one{
+	background-color:rgb(255, 255, 255);
 	display:flex;
 	justify-content:center;
 	margin-left:100px;
